@@ -5,8 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      This is an Marketing Agency Based in Delhi, India and Focusing on Digital,
-      Identity, and Print Design.
+      Get your Ads on Paper Cup's with Targeted Audience and Location. Focusing
+      on Digital, Identity, and Print Design.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
