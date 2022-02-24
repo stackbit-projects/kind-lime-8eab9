@@ -6,7 +6,7 @@
     "base_font": "fraunces",
     "header": {
         "title": "Cup Ads",
-        "logo": "images/logo.svg",
+        "logo": "/images/cupads logo.jpeg.png",
         "logo_alt": "Agency logo",
         "has_nav": true,
         "nav_links": [
